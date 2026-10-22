@@ -1,0 +1,24 @@
+{
+    "users": {
+        "das11biswajit@gmail.com": {
+            "name": "BISWAJIT DAS",
+            "salt": "c5d627a845088aa2e1574029b5aa1837",
+            "password_hash": "9384ac793e9e7ea97bad558e13d329112693ff4b90b2f59060be36b09f529d86"
+        }
+    },
+    "tasks": [],
+    "bills": [],
+    "appliances": [],
+    "expenses": [],
+    "providers": [],
+    "history": [],
+    "profile": {
+        "name": "BISWAJIT DAS",
+        "email": "das11biswajit@gmail.com",
+        "phone": "",
+        "address": ""
+    },
+    "settings": {
+        "appearance": "System"
+    }
+}
